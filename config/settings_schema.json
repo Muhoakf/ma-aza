@@ -1,0 +1,14 @@
+
+[
+  {
+    "name": "Theme Settings",
+    "settings": [
+      {
+        "type": "color",
+        "id": "primary_color",
+        "label": "Primary Color",
+        "default": "#ff0000"
+      }
+    ]
+  }
+]
